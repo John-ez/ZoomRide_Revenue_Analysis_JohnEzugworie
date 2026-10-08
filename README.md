@@ -23,7 +23,7 @@ The analysis aims to help the management understand: where they make the most re
 ---
 
 ## Tools Used
--OneCompiler
+- OneCompiler
 - MySql
 - Sql Queries
 
